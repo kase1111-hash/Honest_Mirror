@@ -2,8 +2,7 @@
 
 **A Transparency-First Posture for AI Under Psychological Load**
 
-*A companion to The Socratic Stabilizer*
-*Kase Branham 2026
+*Kase 
 
 ---
 
@@ -192,4 +191,3 @@ When trust is fragile, technique must become visible.
 ---
 
 *Part of the Cognitive Compression Framework*
-*Companion to: The Socratic Stabilizer*
