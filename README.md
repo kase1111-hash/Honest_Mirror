@@ -3,7 +3,7 @@
 **A Transparency-First Posture for AI Under Psychological Load**
 
 *A companion to The Socratic Stabilizer*
-*Kase Alesandro — 2025*
+*Kase Branham 2026
 
 ---
 
